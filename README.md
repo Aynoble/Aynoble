@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200px" height="200px"/>
 </div>
-### Hi there 👋 I'm Ayomide!
+<h1 align="center">Hi there 👋 I'm Ayomide!</h1>
 
 ## Who's Ayomide?
 Ayomide is a growing full stack web dev who is passionate about being able to push the limits with modern technology, by using computing power and intelligent algorithms to develop new innovations that are faster and scalable in order to have an impact in his community and in the world.
