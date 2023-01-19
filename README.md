@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300px" height="300px"/>
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200px" height="200px"/>
 </div>
 ### Hi there 👋 I'm Ayomide!
 
@@ -20,6 +20,7 @@ Ayomide is a growing full stack web dev who is passionate about being able to pu
 </div>
 
 ## :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aynoble&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ## CONTACT ME
 victordiya90@gmail.com
