@@ -4,7 +4,7 @@
 <h1 align="center">Hi there 👋 I'm Ayomide!</h1>
 
 ## Who's Ayomide?
-Ayomide is a growing full stack web dev who is passionate about being able to push the limits with modern technology, by using computing power and intelligent algorithms to develop new innovations that are faster and scalable in order to have an impact in his community and in the world.
+Ayomide is a growing full stack web developer who is passionate about being able to push the limits with modern technology, by using computing power and intelligent algorithms to develop new innovations that are faster and scalable in order to have an impact in his community and in the world.
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
